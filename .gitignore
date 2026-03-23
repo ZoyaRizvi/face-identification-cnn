@@ -1,0 +1,6 @@
+kaggle.json
+data/
+.ipynb_checkpoints/
+CLAUDE.md
+__pycache__/
+*.pyc
